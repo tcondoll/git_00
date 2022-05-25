@@ -15,59 +15,60 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-Little Birds are dining
-Warily and well,
-Hid in mossy cell:
-Hid, I say, by waiters
-Gorgeous in their gaiters - 
+Little Birds are dining  
+Warily and well,  
+Hid in mossy cell:  
+Hid, I say, by waiters  
+Gorgeous in their gaiters -  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-Two roads diverged in a yellow wood,
-And sorry I could not travel both
-And be one traveler, long I stood
-And looked down one as far as I could
-To where it bent in the undergrowth;
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
-"The sun was shining on the sea,
-      Shining with all his might:
-He did his very best to make
-      The billows smooth and bright —
-And this was odd, because it was
-      The middle of the night.
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night  
 
-The moon was shining sulkily,
-      Because she thought the sun
-Had got no business to be there
-      After the day was done —
-"It's very rude of him," she said,
-      "To come and spoil the fun."
+The moon was shining sulkily,  
+      Because she thought the sun   
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
-'If life were caught by a clarionet,
-And a wild heart, throbbing in the reed,
-Should thrill its joy and trill its fret,
-And utter its heart in every deed,
+'If life were caught by a clarionet,  
+And a wild heart, throbbing in the reed,  
+Should thrill its joy and trill its fret,  
+And utter its heart in every deed,  
 
-'Then would this breathing clarionet
-Type what the poet fain would be;
-For none o' the singers ever yet
-Has wholly lived his minstrelsy,
+'Then would this breathing clarionet  
+Type what the poet fain would be;  
+For none o' the singers ever yet  
+Has wholly lived his minstrelsy,  
 
-'Or clearly sung his true, true thought,
-Or utterly bodied forth his life,
-Or out of life and song has wrought
-The perfect one of man and wife;
+'Or clearly sung his true, true thought,  
+Or utterly bodied forth his life,  
+Or out of life and song has wrought  
+The perfect one of man and wife;  
 
-'Or lived and sung, that Life and Song
-Might each express the other's all,
-Careless if life or art were long
-Since both were one, to stand or fall:
+'Or lived and sung, that Life and Song  
+Might each express the other's all,  
+Careless if life or art were long  
+Since both were one, to stand or fall:  
 
-'So that the wonder struck the crowd,
-Who shouted it about the land:
-`His song was only living aloud,
-His work, a singing with his hand!''
+'So that the wonder struck the crowd,  
+Who shouted it about the land:  
+`His song was only living aloud,  
+His work, a singing with his hand!''  
 
